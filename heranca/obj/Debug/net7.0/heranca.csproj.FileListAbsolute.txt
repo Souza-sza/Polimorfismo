@@ -1,0 +1,15 @@
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\bin\Debug\net7.0\heranca.exe
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\bin\Debug\net7.0\heranca.deps.json
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\bin\Debug\net7.0\heranca.runtimeconfig.json
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\bin\Debug\net7.0\heranca.dll
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\bin\Debug\net7.0\heranca.pdb
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.csproj.AssemblyReference.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.AssemblyInfoInputs.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.AssemblyInfo.cs
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.csproj.CoreCompileInputs.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.dll
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\refint\heranca.dll
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.pdb
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\heranca.genruntimeconfig.cache
+C:\Users\keven\OneDrive\Área de Trabalho\c#\heranca\heranca\obj\Debug\net7.0\ref\heranca.dll
